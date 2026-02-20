@@ -1,3 +1,5 @@
+--> these are some answers to questions asked by chatgpt as a guide or interviewr (optional to read)
+
 step 1 — Define What “Change” Means
 
 Before touching polling frequency, ask:
