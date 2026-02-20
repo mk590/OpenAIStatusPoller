@@ -32,8 +32,8 @@ Status: This incident has been resolved.
 
 
 
-**My Approach**
-Thought Process & Architectural Exploration
+## My Approach
+**Thought Process & Architectural Exploration**
 Initial Direction: Push-Based Architecture
 
 My first instinct was to determine whether OpenAI’s status page exposed any push-based mechanisms. If webhooks, Server-Sent Events, or similar were available, I could design a truly event-driven architecture.
