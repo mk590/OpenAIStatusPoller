@@ -1,0 +1,543 @@
+Feed Title: OpenAI status
+==================================================
+Title: Sora 2 Degraded Performance
+Published: Wed, 18 Feb 2026 16:40:22 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Video generation (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Shopping Research Feature Down
+Published: Mon, 16 Feb 2026 21:12:32 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Search (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Increased error rates on Codex Cloud
+Published: Mon, 16 Feb 2026 17:47:39 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Codex (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Delays in Support Email Processing
+Published: Sat, 14 Feb 2026 20:44:09 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.
+--------------------------------------------------
+Title: High errors with image generation
+Published: Sat, 14 Feb 2026 04:24:08 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Images (Operational)</li>
+<li>Image Generation (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: ChatGPT Conversation Issues
+Published: Thu, 12 Feb 2026 21:56:32 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: high error rate in text-embedding-3-small
+Published: Thu, 12 Feb 2026 17:52:34 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Embeddings (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Some users may experience issues starting conversations in ChatGPT
+Published: Thu, 12 Feb 2026 16:59:17 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Increased login errors for ChatGPT
+Published: Wed, 11 Feb 2026 00:41:00 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Login (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Increased error rates for ChatGPT Go
+Published: Tue, 10 Feb 2026 20:57:50 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: GPT 5.2 Elevated Error Rates
+Published: Tue, 10 Feb 2026 19:29:41 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Codex Cloud issues due to Github Dependencies
+Published: Mon, 09 Feb 2026 20:23:04 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Codex (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Some ChatGPT users may be experiencing issues with loading conversations
+Published: Sat, 07 Feb 2026 09:11:19 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Increased ChatGPT errors for some users
+Published: Thu, 05 Feb 2026 00:48:56 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Codex (Operational)</li>
+<li>ChatGPT Atlas (Operational)</li>
+<li>Login (Operational)</li>
+<li>File uploads (Operational)</li>
+<li>Conversations (Operational)</li>
+<li>Compliance API (Operational)</li>
+<li>Agent (Operational)</li>
+<li>Connectors/Apps (Operational)</li>
+<li>Voice mode (Operational)</li>
+<li>Search (Operational)</li>
+<li>Image Generation (Operational)</li>
+<li>GPTs (Operational)</li>
+<li>Deep Research (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: ChatGPT Availability Impacted
+Published: Wed, 04 Feb 2026 21:04:35 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Image Generation (Operational)</li>
+<li>GPTs (Operational)</li>
+<li>Deep Research (Operational)</li>
+<li>ChatGPT Atlas (Operational)</li>
+<li>Login (Operational)</li>
+<li>Search (Operational)</li>
+<li>Conversations (Operational)</li>
+<li>Agent (Operational)</li>
+<li>Codex (Operational)</li>
+<li>Connectors/Apps (Operational)</li>
+<li>File uploads (Operational)</li>
+<li>Voice mode (Operational)</li>
+<li>Compliance API (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Custom GPT updates are failing for users
+Published: Wed, 04 Feb 2026 14:51:53 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>GPTs (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Some users may experience issues loading or starting conversations
+Published: Wed, 04 Feb 2026 03:46:42 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Elevated error rates for finetuning jobs
+Published: Tue, 03 Feb 2026 23:32:01 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Fine-tuning (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Elevated error rates for ChatGPT and Platform users
+Published: Tue, 03 Feb 2026 22:14:03 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Deep Research (Operational)</li>
+<li>Connectors/Apps (Operational)</li>
+<li>Login (Operational)</li>
+<li>Voice mode (Operational)</li>
+<li>Compliance API (Operational)</li>
+<li>Login (Operational)</li>
+<li>Codex (Operational)</li>
+<li>ChatGPT Atlas (Operational)</li>
+<li>File uploads (Operational)</li>
+<li>Search (Operational)</li>
+<li>Conversations (Operational)</li>
+<li>Image Generation (Operational)</li>
+<li>GPTs (Operational)</li>
+<li>Agent (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Some ChatGPT users may be experiencing issues with their subscription renewals
+Published: Sat, 31 Jan 2026 23:00:45 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Login (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Some Android users may be experiencing errors when signing up for ChatGPT with Google Authentication
+Published: Sat, 31 Jan 2026 00:21:35 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Login (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Brief Issue with Image Generation Results
+Published: Wed, 28 Jan 2026 02:14:26 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Images (Operational)</li>
+<li>Image Generation (Operational)</li>
+<li>Image Generation (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Elevated Codex Error Rate
+Published: Tue, 27 Jan 2026 11:03:26 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Codex (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: ChatGPT availability degraded for free and logged out users
+Published: Mon, 26 Jan 2026 17:27:46 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Agent (Operational)</li>
+<li>Deep Research (Operational)</li>
+<li>Search (Operational)</li>
+<li>GPTs (Operational)</li>
+<li>Codex (Operational)</li>
+<li>Connectors/Apps (Operational)</li>
+<li>ChatGPT Atlas (Operational)</li>
+<li>Login (Operational)</li>
+<li>File uploads (Operational)</li>
+<li>Voice mode (Operational)</li>
+<li>Conversations (Operational)</li>
+<li>Compliance API (Operational)</li>
+<li>Image Generation (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Codex Github Issues
+Published: Thu, 22 Jan 2026 14:55:44 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Codex (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Elevated error rates for ChatGPT users
+Published: Wed, 14 Jan 2026 01:03:43 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Connectors/Apps unselectable in ChatGPT Input Menu
+Published: Mon, 12 Jan 2026 19:45:05 GMT
+Summary: <b>Status: Resolved</b><br /><br />Connectors/Apps are again selectable in the ChatGPT Input Menu.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Connectors/Apps (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Increased error rate for ChatGPT and API for prompts with images
+Published: Thu, 08 Jan 2026 21:12:00 GMT
+Summary: <b>Status: Resolved</b><br /><br />ChatGPT and API functionality should now be fully restored.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+<li>Chat Completions (Operational)</li>
+<li>Responses (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: High error rate for Dall-e
+Published: Thu, 08 Jan 2026 02:45:00 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Images (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Some Codex cloud tasks are failing
+Published: Thu, 08 Jan 2026 02:30:50 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Codex (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Elevated error rates for Responses API
+Published: Wed, 07 Jan 2026 23:53:27 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Responses (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: ChatGPT issues while retrieving workspace members
+Published: Tue, 06 Jan 2026 21:00:00 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Login (Operational)</li>
+<li>File uploads (Operational)</li>
+<li>Voice mode (Operational)</li>
+<li>Search (Operational)</li>
+<li>Compliance API (Operational)</li>
+<li>Image Generation (Operational)</li>
+<li>Agent (Operational)</li>
+<li>Deep Research (Operational)</li>
+<li>Conversations (Operational)</li>
+<li>GPTs (Operational)</li>
+<li>Codex (Operational)</li>
+<li>Connectors/Apps (Operational)</li>
+<li>ChatGPT Atlas (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: GPT-5.1 Codex Max Elevated Error Rate
+Published: Tue, 06 Jan 2026 09:56:06 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Responses (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Some User May Experience Issues Loading Conversation History and Downloading Files from Custom GPTs
+Published: Thu, 25 Dec 2025 09:41:27 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+<li>GPTs (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Some Android users are experiencing elevated errors while using ChatGPT.
+Published: Sun, 21 Dec 2025 21:33:27 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Compliance API (Operational)</li>
+<li>Agent (Operational)</li>
+<li>Deep Research (Operational)</li>
+<li>ChatGPT Atlas (Operational)</li>
+<li>Voice mode (Operational)</li>
+<li>Search (Operational)</li>
+<li>Image Generation (Operational)</li>
+<li>GPTs (Operational)</li>
+<li>Codex (Operational)</li>
+<li>Connectors/Apps (Operational)</li>
+<li>Login (Operational)</li>
+<li>File uploads (Operational)</li>
+<li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Increased error rates for Sora API
+Published: Fri, 19 Dec 2025 06:58:21 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Sora (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Degraded latency and increased error rates for Sora API
+Published: Fri, 19 Dec 2025 01:25:31 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Sora (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: ChatGPT intermittently not loading successfully after SSO authentication
+Published: Thu, 18 Dec 2025 22:46:43 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Login (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Unable to Login on Sora Web
+Published: Thu, 18 Dec 2025 22:34:58 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered. Please try logging in again.<br /><br /><b>Affected components</b>      
+          <ul>
+          <li>Login (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Finetuning jobs are intermittently failing
+Published: Thu, 18 Dec 2025 09:29:21 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Fine-tuning (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Codex & Responses API Experiencing Elevated Errors
+Published: Wed, 17 Dec 2025 04:12:31 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Responses (Operational)</li>
+<li>Codex (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: High Error Rate in Image API
+Published: Tue, 16 Dec 2025 05:23:17 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Images (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: ChatGPT connectors have disconnected unexpectedly
+Published: Fri, 12 Dec 2025 23:11:55 GMT
+Summary: <b>Status: Resolved</b><br /><br />The issue is now resolved. For the vast majority of affected connectors have been reconnected successfully. For a small fraction of users, manually reconnecting connectors will be required.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Connectors/Apps (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Github Connector Errors for ChatGPT Web and Codex
+Published: Fri, 12 Dec 2025 19:52:11 GMT
+Summary: <b>Status: Resolved</b><br /><br />The affected Github connectors should now be fully restored. Users should be able to use Codex (including code reviews) and ChatGPT with the Github connector without issue.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Codex (Operational)</li>
+<li>Connectors/Apps (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Elevated error rate for 5.2 Auto and 5.2 Instant
+Published: Thu, 11 Dec 2025 23:11:30 GMT
+Summary: <b>Status: Resolved</b><br /><br />The issue has been resolved.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Increased Errors On Android Devices
+Published: Wed, 10 Dec 2025 23:27:08 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Connectors/Apps (Operational)</li>
+<li>ChatGPT Atlas (Operational)</li>
+<li>Login (Operational)</li>
+<li>File uploads (Operational)</li>
+<li>Search (Operational)</li>
+<li>Conversations (Operational)</li>
+<li>Image Generation (Operational)</li>
+<li>GPTs (Operational)</li>
+<li>Deep Research (Operational)</li>
+<li>Codex (Operational)</li>
+<li>Voice mode (Operational)</li>
+<li>Compliance API (Operational)</li>
+<li>Agent (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Issues related to Codex Web, Code Reviews
+Published: Tue, 09 Dec 2025 21:21:03 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Codex (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: ChatGPT advanced voice mode issues
+Published: Tue, 09 Dec 2025 20:09:59 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Voice mode (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Github Authentication errors with Codex Web
+Published: Tue, 09 Dec 2025 05:55:32 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Codex (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: ChatGPT Slack Connector cannot be installed
+Published: Fri, 05 Dec 2025 04:26:19 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Connectors/Apps (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: CustomGPT Allow/Deny button not appeared
+Published: Fri, 05 Dec 2025 04:23:59 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>GPTs (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: ChatGPT Conversation Errors for Business and Enterprise
+Published: Wed, 03 Dec 2025 10:53:43 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Increased errors when creating new Codex tasks
+Published: Wed, 03 Dec 2025 01:46:36 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Codex (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Increased ChatGPT error rates
+Published: Tue, 02 Dec 2025 20:12:00 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Users would have experienced various conversation errors and connectivity issues
+Published: Mon, 01 Dec 2025 19:00:53 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Elevated errors for ChatGPT
+Published: Wed, 26 Nov 2025 23:20:11 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: ChatGPT users on web are unable to delete conversations
+Published: Wed, 26 Nov 2025 21:31:38 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Increased ChatGPT errors for some users
+Published: Wed, 26 Nov 2025 03:06:07 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Agent (Operational)</li>
+<li>Codex (Operational)</li>
+<li>ChatGPT Atlas (Operational)</li>
+<li>File uploads (Operational)</li>
+<li>Search (Operational)</li>
+<li>Compliance API (Operational)</li>
+<li>GPTs (Operational)</li>
+<li>Deep Research (Operational)</li>
+<li>Connectors/Apps (Operational)</li>
+<li>Login (Operational)</li>
+<li>Voice mode (Operational)</li>
+<li>Conversations (Operational)</li>
+<li>Image Generation (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: ImageGen issues for some ChatGPT Workspaces with Non-US Data Residency
+Published: Tue, 25 Nov 2025 22:37:35 GMT
+Summary: <b>Status: Resolved</b><br /><br />Issue has been resolved - ChatGPT Workspaces with Non-US Data Residency should no longer be experiencing issues with ImageGen.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Image Generation (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Increased ChatGPT errors for EU, South America, and East US regions
+Published: Tue, 25 Nov 2025 21:14:16 GMT
+Summary: <b>Status: Resolved</b><br /><br />Issue has been resolved. Users in the EU, South America, and East US regions should no longer see increased ChatGPT error rates.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>GPTs (Operational)</li>
+<li>Codex (Operational)</li>
+<li>Connectors/Apps (Operational)</li>
+<li>ChatGPT Atlas (Operational)</li>
+<li>Login (Operational)</li>
+<li>Voice mode (Operational)</li>
+<li>Compliance API (Operational)</li>
+<li>Image Generation (Operational)</li>
+<li>Agent (Operational)</li>
+<li>Deep Research (Operational)</li>
+<li>File uploads (Operational)</li>
+<li>Search (Operational)</li>
+<li>Conversations (Operational)</li>
+          </ul>
+--------------------------------------------------
+Title: Elevated Errors on Codex
+Published: Sun, 23 Nov 2025 06:55:20 GMT
+Summary: <b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>
+          <ul>
+          <li>Codex (Operational)</li>
+          </ul>
+--------------------------------------------------

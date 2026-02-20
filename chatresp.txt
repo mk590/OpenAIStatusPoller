@@ -1,0 +1,79 @@
+step 1 — Define What “Change” Means
+
+Before touching polling frequency, ask:
+
+What exactly qualifies as “new”?
+
+New <item>? --> on a same timestamp is somethign new is added i have to consider it , Forget about the timestep. Even if something is new is added, I have to consider the new item.
+
+Change in <guid>? --> No, if something is updated for a old GUID, I will capture it through the update. So I need not check if there is change in GUID. Yes, if something new is added, then obviously it will be a new G UID.And that too I have considered while adding new item.Do GUID change if I update the status of a old record.
+
+Change in <pubDate>? --> yes , since the rss feed is in the icreasing order of date in terms of Published date that new items which are published on data state are added at the top. So whenever I get a published that is below my today's current date, I can stop.
+
+Change in content hash? --> Yes, this can be used if generating a has and comparing it to an existing has is far more efficient. I need to check if this is how efficient is this approach to check whether I need to pull the data or not, or it might also happen that other methods that are that are that I am going to apply may make this make this checking of hashing irredundant.
+
+Change in feed ETag?
+
+Define that first.
+
+If change definition is weak, polling strategy won’t matter.
+
+
+Step 2 — Decide Poll Trigger Model
+
+There are only three intelligent polling triggers:
+
+1️⃣ Fixed Interval (baseline safety net) --I am surely going to include this.
+
+Even if optimized, always keep a fallback interval.
+
+2️⃣ Conditional HTTP validation --sure
+
+Use protocol support to reduce data transfer.
+
+3️⃣ Event-triggered internal polling --This is great from a production perspective of view, but I'm not including here as I am only focusing on getting the notifications or messages from the status page of OpenAI in an efficient manner.
+
+Trigger a poll when:
+
+Your dependent service throws errors
+
+Deployment starts
+
+Scheduled production window
+
+But remember:
+This is reactive polling.
+You are not eliminating polling.
+You are relocating it.
+
+Step 3 — Decide Freshness vs Cost
+
+Ask yourself:
+
+If notification arrives 2 minutes late, is that acceptable? -- One minute delay is accepting.
+
+If yes → aggressive optimization is unnecessary.
+
+If no → polling frequency increases.-- We'll aggressively optimized in the future versions. As of now, one we are going with one minute delay.
+
+Most status feeds do not require sub-minute precision.
+
+Don’t optimize for ego.
+Optimize for need.
+
+Step 4 - We'll think about the failure mode once I have made a first Draft. of the process.
+
+Step 5 — Define State Storage -- I will think about what I am going to store later on, but one thing is very clear that the size of the field will not be very much it would be in the K V at Max, if I am storing past month data, it wouldn't exceed the MB. So I can safely, very safely write it in the files, but I can also use the objects if I'm going with a lesser size or less time containing or like I'm retaining the data for a lesser period of time for comparison.
+
+Where do you store:
+
+Last seen GUID?
+
+Last ETag?
+
+Last poll timestamp?
+
+Memory?
+File?
+Redis?
+DB?
