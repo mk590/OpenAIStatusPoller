@@ -2,9 +2,9 @@ import feedparser
 import helper
 
 rss_url = "https://status.openai.com/feed.rss"
+# rss_url = "https://status.openai.com/feed.atom"
 
 feed = feedparser.parse(rss_url)
-print(feed)
 
 print("Feed Title:", feed.feed.title)
 print("=" * 50)
